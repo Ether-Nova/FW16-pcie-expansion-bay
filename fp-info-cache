@@ -1,4 +1,4 @@
-24539760822203479
+24550243404514354
 2.2kPotMultiturn
 TRIM_3296Y-1-222LF
 
@@ -56868,6 +56868,13 @@ FW 16 Components
 2
 2
 FW 16 Components
+25SVPF100M
+
+
+0
+2
+2
+FW 16 Components
 0603
 
 
@@ -56909,6 +56916,41 @@ PCI-Ex16
 0
 166
 166
+FW 16 Components
+PowerTHT
+
+
+0
+1
+1
+FW 16 Components
+SOT89
+Package/Case: SOT-89, L x p x h / 4.6 (max) x 2.6 x 1.6 (max)Source: http://focus.ti.com/lit/ds/symlink/ua78l05.pdf
+
+0
+4
+4
+FW 16 Components
+TestPad
+
+
+0
+1
+1
+FW 16 Components
+VQFN11_ROM
+
+BD9F800MUX-ZE2 
+0
+11
+11
+FW 16 Components
+WE-XHMA_1090
+
+
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
