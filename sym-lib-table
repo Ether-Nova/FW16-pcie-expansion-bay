@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "FW 16 Components")(type "KiCad")(uri "${KIPRJMOD}/FW 16 Components.kicad_sym")(options "")(descr ""))
-)
